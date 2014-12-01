@@ -11,9 +11,9 @@
 
 
 -----------------
- [Documentation](Documentation.md)
+ Documentation
 ----------------
-- Component Reference
+- [Component Reference](Component Reference.md)
 - User Interface components
 - Layout components
 - Media components
@@ -25,7 +25,7 @@
 - LEGO® MINDSTORMS® components
 
 -----------------
-[Tutorials](Tutorials.md)
+Tutorials
 -----------------
 - Beginner Tutorials: Short Videos to get started
 - Hello Purr for App Inventor 2
