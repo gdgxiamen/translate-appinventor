@@ -3,7 +3,7 @@
 --------------------
  [Get Started](get-started.md)
 --------------------
-- Setup Instructions.
+- [Setup Instructions](setup-Instructions.md).
 - Designer and Blocks Editor Overview.
 - Beginner Tutorials.
 - Packaging and Sharing Apps.
