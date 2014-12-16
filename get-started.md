@@ -23,7 +23,7 @@ App Inventor is a cloud-based tool, which means that you can build apps right in
 App Inventor是一种基于云端的工具，这意味着你可以在你的浏览器网页上就可以开发应用程序。本网站提供所有的在你学习如何开发自己的应用的过程中所需要的支持。App Inventor这个软件或者说“服务”的官方网站是ai2.appinventor.mit.edu.你可以通过点击本网站任一页面上的橙色的按钮“创建”来访问官网。
 
 
-1.	[设置指导](setup.md) ：如何设置你的手机用于在线检测（或者，如果你没有手机的话，如何开启模拟器）。
+1.	[设置指导](setup-Instructions.md) ：如何设置你的手机用于在线检测（或者，如果你没有手机的话，如何开启模拟器）。
 
 2.	设计者和模块编辑者概述：给出应用开发工具环境之旅。
 
